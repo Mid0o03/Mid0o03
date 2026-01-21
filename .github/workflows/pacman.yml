@@ -21,13 +21,23 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Génération du Pacman
+      # 1. Récupère ton code
+      - uses: actions/checkout@v3
+
+      # 2. Génère le Pacman
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # Envoi des fichiers générés vers la branche "output"
+      # 3. Crée le dossier dist et déplace le fichier dedans (C'est l'étape clé !)
+      - name: Move file to dist
+        run: |
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/
+          mv pacman-contribution-graph-dark.svg dist/ || true
+
+      # 4. Envoie le dossier dist vers la branche "output"
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
