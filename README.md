@@ -97,7 +97,7 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/b34a919f957863b15174092490ab822e/tumblr_inline_p7h08pL7n41use00p_500.gif" width="100%" style="border-radius: 0px 0px 10px 10px;">
   <br><br>
-  <a href="www.linkedin.com/in/mael-jerome-2700482b2](https://www.linkedin.com/in/mael-jerome-2700482b2/">
+  <a href="https://www.linkedin.com/in/mael-jerome-2700482b2/">
     <img src="https://img.shields.io/badge/PRESS_START_TO_CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
