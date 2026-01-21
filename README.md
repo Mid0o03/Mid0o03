@@ -94,6 +94,18 @@
 
 <br>
 
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TON_USERNAME_GITHUB/TON_USERNAME_GITHUB/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TON_USERNAME_GITHUB/TON_USERNAME_GITHUB/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/TON_USERNAME_GITHUB/TON_USERNAME_GITHUB/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<br>
+<br>
+
 <div align="center">
   <img src="https://64.media.tumblr.com/b34a919f957863b15174092490ab822e/tumblr_inline_p7h08pL7n41use00p_500.gif" width="100%" style="border-radius: 0px 0px 10px 10px;">
   <br><br>
