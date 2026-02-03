@@ -114,7 +114,7 @@
   </a>
   <br><br>
 
-<a href="https://mael.dev](https://www.maeljerome.dev">
+<a href="https://www.maeljerome.dev">
   <img src="https://img.shields.io/badge/NEW_QUEST-ENTER_PORTFOLIO-2CB67D?style=for-the-badge" />
 </a>
 
