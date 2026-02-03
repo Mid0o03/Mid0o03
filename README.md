@@ -112,4 +112,11 @@
   <a href="https://www.linkedin.com/in/mael-jerome-2700482b2/">
     <img src="https://img.shields.io/badge/PRESS_START_TO_CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br><br>
+
+<a href="https://mael.dev](https://www.maeljerome.dev">
+  <img src="https://img.shields.io/badge/NEW_QUEST-ENTER_PORTFOLIO-2CB67D?style=for-the-badge" />
+</a>
+
+  
 </div>
