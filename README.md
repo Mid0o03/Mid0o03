@@ -78,11 +78,11 @@
 |  **Mission** | **Description** | **XP Gained** | **Status** |
 |:---:|:---|:---:|:---:|
 | **Parklydex** | 📱 App mobile pour parcs d'attractions (Data temps réel) | `React` `Node` | 🟡 Loading... |
-| **Parklydex** | 🎢 App web temps réel pour les passionnés de parcs d'attractions | `React` `Node.js` | 🟢 Completed  |
-| **Mael.Dev** | 🌐 Portfolio interactif 2.0 avec animations avancées | `React` `Tailwind` | 🟢 Completed |
+| **Parklydex** | 🎢 App web temps réel pour les passionnés de parcs d'attractions | `React` `Node.js` | 🟢 Active |
+| **Mael.Dev** | 🌐 Portfolio interactif 2.0 avec animations avancées | `React` `Tailwind` | 🟡 Loading...  |
 | **Dev Toolbox** | 🛠️ Collection d'outils et de ressources pour développeurs | `Markdown` `Curating` | 🟢 Active |
 | **The Odin Project** | 🎓 Parcours complet Fullstack (Projets JavaScript & Ruby) | `JS` `Fullstack` | 🔵 Leveling Up |
-| **Science Hubs** | 🎓 4 Plateformes web pour étudiants scientifiques | `HTML` `UI/UX` | 🟢 Complete |
+| **Science Hubs** | 🎓 4 Plateformes web pour étudiants scientifiques | `HTML` `UI/UX` | 🟢 Completed |
 
 
 <br>
