@@ -45,7 +45,7 @@
         <b>Weapons</b>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=js,html,css,python&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs&theme=dark" />
       </td>
     </tr>
     <tr style="border: none;">
@@ -54,7 +54,7 @@
         <b>Armor</b>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,mysql,postgres,postman&theme=dark" />
       </td>
     </tr>
     <tr style="border: none;">
